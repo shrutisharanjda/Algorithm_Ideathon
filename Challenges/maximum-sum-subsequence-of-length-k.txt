@@ -1,0 +1,10 @@
+Maximum Sum Subsequence of length k
+Given an array sequence [A1, A2 …An], the task is to find the maximum possible sum of increasing subsequence S of length k such that S1<=S2<=S3………<=Sk.
+
+Examples:
+
+Input :
+n = 8 k = 3
+A=[8 5 9 10 5 6 21 8]
+Output : 40
+Possible Increasing subsequence of Length 3 with maximum possible sum is 9 10 21
